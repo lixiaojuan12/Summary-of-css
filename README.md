@@ -1,4 +1,2 @@
 # Summary-of-interview-questions
-对目前这一阶段的总结，包含css，js等知识点
-eeeeeeeee]\
-eeeeeeee
+该仓库更新的是对css知识点的总结，后续看到好的题目会持续更新
